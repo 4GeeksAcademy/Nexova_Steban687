@@ -11,3 +11,10 @@
 
 2. OPERACION DE SELECCIÓN:
    Un pipeline de selección asistido por IA con scoring y ranking automático de CVs, un sistema RAG sobre la base de datos de candidatos ("encuentra perfiles con experiencia en ventas B2B y nivel C1 de inglés"), un portal de candidatos con estado en tiempo real, y un agente de comunicación que envía correos electrónicos automáticos de seguimiento.
+
+### MILESTONES A DESARROLAR:
+
+- Implementación de filtrado automatizado
+- Integracion de un sistema Rag para la búsqueda semántica
+  y ranking de los candidatos.
+- Automatización de respuestas a candidatos
