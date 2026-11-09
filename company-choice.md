@@ -18,3 +18,8 @@
 - Integracion de un sistema Rag para la búsqueda semántica
   y ranking de los candidatos.
 - Automatización de respuestas a candidatos
+
+
+## MI idea de Agente IA.
+
+Con mi agente IA, el objetivo es optimizar el recaudo de CVs en tiempo real con un sistema Rag en los dos países, teniendo acceso a informacción en tiempo real en vez de hacer todo manualmente y con mayor rendimiento, traducido a costo beneficio, ya que se estará monitoreando las vacantes, las demandas de los clientes y el personal idoneo a ocuparlas. 

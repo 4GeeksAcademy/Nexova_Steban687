@@ -105,3 +105,5 @@ Complejidad multifuncional — construirás para cinco equipos muy distintos (op
 Los retos de IA en Nexova incluyen búsqueda semántica sobre una base de datos de candidatos, automatización de soporte de primera línea que debe respetar los SLA, un pipeline de scoring de CVs con rankings explicables, y un motor de recomendación para programas formativos. Si quieres que tu portafolio demuestre AI Engineering aplicado directamente a las operaciones principales de una empresa — no solo a sus herramientas internas — Nexova es tu empresa.
 
 Documento interno — 4Geeks Academy · AI Engineering Track Uso exclusivo para la generación de proyectos del programa
+
+
