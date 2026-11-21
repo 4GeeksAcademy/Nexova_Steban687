@@ -6,6 +6,8 @@ El proyecto Nexova cuenta con una primera implementación del flujo de selecció
 
 El agente dispone de plantillas de comunicación en español e inglés para los estados de candidatura, confirmaciones de entrevista y seguimientos.
 
+La ubicación prevista del código de producto está documentada en [AGENTS.md](../AGENTS.md#ubicación-del-código-de-producto). La plantilla ya incluye `uis/` y `services/`; las aplicaciones `uis/website/` y `uis/backoffice/` se crearán allí cuando se necesiten.
+
 ## Últimos cambios
 
 - Se alinearon las claves de las plantillas de estado con los estados de candidatura `new`, `shortlisted` y `rejected`. Esto corrige la prueba que detectaba la diferencia entre los nombres esperados y los disponibles.
